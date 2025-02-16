@@ -10,11 +10,11 @@ Feel free to make and addtions/modifacations as you want.
 I use a combonation of autocad and inkscape to make these.
 
 the current file formats are: 
-autocad - .dxf .dwg
-inkscape - .svg .pdf
+1.  autocad - .dxf .dwg
+2.  inkscape - .svg .pdf
 
 Finished products available on:
 
-https://www.instagram.com/micgear/
+1.  https://www.instagram.com/micgear/
 
-https://www.micgear.ca/
+2.  https://www.micgear.ca/
