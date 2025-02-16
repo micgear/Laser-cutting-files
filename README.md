@@ -10,7 +10,6 @@ Feel free to make and addtions/modifacations as you want.
 I use a combonation of autocad and inkscape to make these.
 
 the current file formats are: 
-
 autocad - .dxf .dwg
 inkscape - .svg .pdf
 
