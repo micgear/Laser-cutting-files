@@ -11,8 +11,8 @@ I use a combonation of autocad and inkscape to make these.
 
 the current file formats are: 
 
-    autocad - .dxf .dwg
-    inkscape - .svg .pdf
+autocad - .dxf .dwg
+inkscape - .svg .pdf
 
 Finished products available on:
 
