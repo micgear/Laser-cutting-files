@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
+   sodipodi:docname="SPBA.2.5.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.78484147"
+     inkscape:cx="396.89544"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1868"
+     inkscape:window-height="1131"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#1119ee;stroke-width:0.144469;stroke-opacity:1;-inkscape-stroke:hairline;paint-order:markers stroke fill"
+       id="rect27-5-9-4-7-7-8-0-5-3"
+       width="3.175"
+       height="25.4"
+       x="173.41013"
+       y="79.139496" />
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#1119ee;stroke-width:0.144469;stroke-opacity:1;-inkscape-stroke:hairline;paint-order:markers stroke fill"
+       id="rect27-5-9-4-7-7-8-3-7-7"
+       width="3.175"
+       height="25.4"
+       x="173.4101"
+       y="180.73959" />
+    <path
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#1f7213;stroke-width:0.264583;stroke-opacity:1;-inkscape-stroke:hairline;paint-order:markers stroke fill"
+       d="M 36.885079,72.789202 H 179.7601 l 3.175,3.175 V 107.6307 l -3.175,3.1748 -6.35,0.084 -3.175,3.1748 -3e-5,57.1503 3.175,3.1749 h 6.34998 l 3.175,3.1748 3e-5,31.7504 -3.175,3.1748 -9.52498,1e-4 -31.75001,-38.1001 H 36.885079 Z"
+       id="path40-2" />
+  </g>
+</svg>
